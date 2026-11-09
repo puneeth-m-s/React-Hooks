@@ -1,0 +1,9 @@
+some data from the example text file.
+
+Common js - requre()
+
+ESModule - import{}
+
+promise - pending/not
+
+thenable
